@@ -1,7 +1,6 @@
-# Bonjour, je suis Firdaousse Karimou
+# Portfoli de Firdaousse Karimou
 
-[Une phrase accrocheuse sur ce que vous faites]
-
+Étudiante en data science, je construis mon expertise en transformant ma passion pour les données en projets concrets, rigoureux et à impact.
 ---
 
 ## 🛠️ Technologies
